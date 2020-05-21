@@ -1,0 +1,14 @@
+{
+  "name": "tcp-socket-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "net": "^1.0.2"
+  }
+}
